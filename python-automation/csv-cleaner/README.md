@@ -1,14 +1,14 @@
-CSV Cleaner
+# CSV Cleaner
 
 A Python utility for cleaning and organizing CSV datasets.
 
-Overview
+## Overview
 
 CSV Cleaner is a Python project intended to simplify common data-cleaning tasks.
 
 It will help transform inconsistent CSV files into cleaner, more organized datasets.
 
-Planned Features
+## Planned Features
 
 - Detect and remove duplicate records.
 - Handle missing values.
@@ -17,17 +17,17 @@ Planned Features
 - Organize column names.
 - Export cleaned datasets.
 
-Technology
+## Technology
 
 - Python
 - CSV module
 - Regular expressions
 - SQLite (potential future integration)
 
-Project Status
+## Project Status
 
 Planned.
 
-Objective
+## Objective
 
 Build a lightweight, reusable data-cleaning utility suitable for everyday business datasets.
